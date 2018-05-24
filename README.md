@@ -135,7 +135,7 @@ F.A.Q.
  the case. All we ask is that you make some effort to participate, a
  few options may be:
 
-   - Take `Option 3` and show us something you already have.
+   - Take `Option 2` and show us something you already have.
 
    - Ask for more time to complete the exercise - we understand -
      just let us know.
