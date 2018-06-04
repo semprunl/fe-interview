@@ -37,7 +37,7 @@ a second time based on the feedback.
 
 ### What we are looking for?
 
-Keep it simple. Really. 4-6 hours isn't a lot of time and we really
+Please use VueJS and keep it simple. Really. 4-6 hours isn't a lot of time and we really
 don't want you spending too much more time on it than that. It's more
 important for us to see how you approach the problem rather then
 solving it in its entirety.
