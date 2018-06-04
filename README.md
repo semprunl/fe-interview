@@ -49,10 +49,7 @@ for your code then you should aim to do the same here. These may be
 toy exercises, but we really would like to get an idea of how you
 build code on a day-to-day basis.
 
-You can submit the code in any way that is convenient for you - you
-can email us a tarball, a pointer to download your code from somewhere
-or just a pointer to a source control repository. In your submission,
-you should include:
+When it comes to the submission of the code, please send us alink to a source control repository, which should include:
 
  - The code and what ever is required to run it. You can assume that
    this will __run on some *nix like operating system__ and will have a
